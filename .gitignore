@@ -1,0 +1,25 @@
+# Build directory
+/build/
+/build/**/*
+**/vcpkg_installed/**
+
+# CMake-generated files
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+compile_commands.json
+
+# vcpkg
+/vcpkg/
+vcpkg-manifest-install.log
+
+# User-specific files
+CMakeUserPresets.json
+
+# Temporary or generated files
+*.log
+*.tmp
+
+# Executable files
+*.exe
+*.out
