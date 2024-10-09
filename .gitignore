@@ -11,6 +11,7 @@ compile_commands.json
 
 # vcpkg
 /vcpkg/
+/vcpkg/**/*
 vcpkg-manifest-install.log
 
 # User-specific files
