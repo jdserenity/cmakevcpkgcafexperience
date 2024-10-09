@@ -2,7 +2,7 @@
 
 clone this repo, then
 
-#### in current working directory:
+#### inside that folder:
 
 git clone https://github.com/microsoft/vcpkg.git
 
