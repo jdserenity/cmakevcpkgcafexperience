@@ -1,5 +1,7 @@
 ### to run:
 
+clone this repo, then
+
 ##### in current working directory:
 
 git clone https://github.com/microsoft/vcpkg.git
