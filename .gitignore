@@ -23,3 +23,5 @@ CMakeUserPresets.json
 # Executable files
 *.exe
 *.out
+
+.DS_Store
