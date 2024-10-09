@@ -14,9 +14,6 @@ compile_commands.json
 /vcpkg/**/*
 vcpkg-manifest-install.log
 
-# User-specific files
-CMakeUserPresets.json
-
 # Temporary or generated files
 *.log
 *.tmp
