@@ -10,6 +10,8 @@ cd vcpkg && ./bootstrap-vcpkg.sh
 
 export PATH=$VCPKG_ROOT:$PATH
 
+cd ..
+
 cmake --preset=default
 
 cmake --build build
