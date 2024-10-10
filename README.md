@@ -16,7 +16,9 @@ cmake --build build
 
 ./build/vcpkg2
 
-
+-
 if it doesn't work it's probably bc the paths in the CMakePreset files are not correct for your system
 
 caf actors example is from their examples folder
+
+if you want this folder to be part of a larger git repo just delete the .git and .gitignore that's inside of this one
